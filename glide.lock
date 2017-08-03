@@ -1,10 +1,8 @@
-hash: 58520d6e89c960a460683ec05d8bdf45a304c4fcbb640f0588b63e083aa655f6
-updated: 2017-08-02T19:11:44.808802136-07:00
+hash: 1e217dd642cc31269f6ad43604522432759bf135129114952a4ba8b6b9dbeaa1
+updated: 2017-08-02T23:03:30.646585519-07:00
 imports:
 - name: github.com/docopt/docopt-go
   version: 784ddc588536785e7299f7272f39101f7faccc3f
-- name: github.com/op/go-logging
-  version: b2cb9fa56473e98db8caba80237377e83fe44db5
-- name: github.com/rabbit-ci/logstreamer
-  version: 3e87380102d4e34477966e1a2b60ab1245ddd75a
+- name: github.com/logrusorgru/aurora
+  version: 962a6974312dde57d1f6f5738b4f83e1af9f38a4
 testImports: []

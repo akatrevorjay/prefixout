@@ -1,5 +1,4 @@
 package: github.com/akatrevorjay/prefixout
 import:
 - package: github.com/docopt/docopt-go
-- package: github.com/op/go-logging
-- package: github.com/rabbit-ci/logstreamer
+- package: github.com/logrusorgru/aurora
