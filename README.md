@@ -6,7 +6,7 @@ Prefixes stuff with stuff.
 What?
 -----
 
-* Asciinema: 
+* Asciinema: https://asciinema.org/a/131927
 
 Install
 -------
