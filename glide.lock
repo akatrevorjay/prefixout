@@ -1,0 +1,10 @@
+hash: 58520d6e89c960a460683ec05d8bdf45a304c4fcbb640f0588b63e083aa655f6
+updated: 2017-08-02T19:11:44.808802136-07:00
+imports:
+- name: github.com/docopt/docopt-go
+  version: 784ddc588536785e7299f7272f39101f7faccc3f
+- name: github.com/op/go-logging
+  version: b2cb9fa56473e98db8caba80237377e83fe44db5
+- name: github.com/rabbit-ci/logstreamer
+  version: 3e87380102d4e34477966e1a2b60ab1245ddd75a
+testImports: []
