@@ -1,8 +1,0 @@
-hash: 1e217dd642cc31269f6ad43604522432759bf135129114952a4ba8b6b9dbeaa1
-updated: 2017-08-02T23:03:30.646585519-07:00
-imports:
-- name: github.com/docopt/docopt-go
-  version: 784ddc588536785e7299f7272f39101f7faccc3f
-- name: github.com/logrusorgru/aurora
-  version: 962a6974312dde57d1f6f5738b4f83e1af9f38a4
-testImports: []

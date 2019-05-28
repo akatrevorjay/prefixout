@@ -1,4 +1,0 @@
-package: github.com/akatrevorjay/prefixout
-import:
-- package: github.com/docopt/docopt-go
-- package: github.com/logrusorgru/aurora

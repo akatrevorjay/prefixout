@@ -1,0 +1,4 @@
+github.com/docopt/docopt-go v0.0.0-20160216232012-784ddc588536 h1:rHnpq7uNlix5l7tWZ55iJcHHrxCPnOVF4FGb7qOT2Jc=
+github.com/docopt/docopt-go v0.0.0-20160216232012-784ddc588536/go.mod h1:WwZ+bS3ebgob9U8Nd0kOddGdZWjyMGR8Wziv+TBNwSE=
+github.com/logrusorgru/aurora v0.0.0-20161216170044-962a6974312d h1:mUY77ku2KjtUf3LE2ofFOz3b1Ajzmf289DCBlEGcYY0=
+github.com/logrusorgru/aurora v0.0.0-20161216170044-962a6974312d/go.mod h1:7rIyQOR62GCctdiQpZ/zOJlFyk6y+94wXzv6RNZgaR4=
