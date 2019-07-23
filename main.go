@@ -16,7 +16,7 @@ import (
 	"github.com/logrusorgru/aurora"
 )
 
-var version = "0.0.1"
+var version = "0.1.0"
 
 var self = path.Base(os.Args[0])
 var logger = log.New(os.Stderr, fmt.Sprintf("%s: ", self), 0)
